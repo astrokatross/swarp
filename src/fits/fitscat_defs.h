@@ -53,7 +53,7 @@
 #define	BODY_DEFVRAM	(1.9*GBYTE)	/* a fair number by 1999 standards */
 #define	BODY_DEFSWAPDIR	"/tmp"		/* OK at least for Unix systems */
 
-#define	BIG		1e+30		/* a huge number */
+#define	BIG		1e+45		/* a huge number */
 #define	TINY		(1.0/BIG)	/* a tiny number */
 #ifndef PI
 #define	PI		3.14159265359	/* never met before? */
